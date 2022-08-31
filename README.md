@@ -1,1 +1,2 @@
-# notion-like-remnote-theme
+# Notion like Remnote Theme
+using new CSS system
